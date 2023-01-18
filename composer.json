@@ -1,5 +1,5 @@
 {
-	"name": "damms005/laravel-activitylog-ui",
+	"name": "roboticli/laravel-activitylog-ui",
 	"description": "A Voyager-powered UI for the spatie/laravel-activitylog package that we all love!",
 	"type": "library",
 	"authors": [
@@ -15,7 +15,7 @@
 		"laravel activity log"
 	],
 	"require": {
-		"spatie/laravel-activitylog": "^3.0",
+		"spatie/laravel-activitylog": "3-4",
 		"illuminate/support": "^8.0",
 		"tcg/voyager": "*"
 	},
