@@ -15,7 +15,7 @@
 		"laravel activity log"
 	],
 	"require": {
-		"spatie/laravel-activitylog": "3-4",
+		"spatie/laravel-activitylog": "3 - 4",
 		"illuminate/support": "^8.0",
 		"tcg/voyager": "*"
 	},
